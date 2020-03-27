@@ -1,0 +1,12 @@
+*~
+check-transcription-status
+list-buckets
+pull-s3
+push-s3
+start-transcription
+get-transcription-files
+test-json
+push-konch
+config.yaml
+.idea
+.DS_Store
